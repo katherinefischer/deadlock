@@ -28,8 +28,8 @@ mvsim_results.csv - Multi-vehicle results
 
 To run:
 Open MATLAB and set the working directory to this folder.
-Run 'run_svsim_tests' to show 10 SV tests
-Run 'run_mvsim_tests' to show 10 MV tests
+Run 'run_svsim_tests' in the command window to show 10 SV tests
+Run 'run_mvsim_tests' in the command window to show 10 MV tests
 
 Single Vehicle Sim tests will also show plots for 5 of the scenarios and Multi-Vehicle will show all plots in a separate window.
 
