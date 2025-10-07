@@ -16,11 +16,11 @@ Simulink.slx
 Primary testing files:
 run_mvsim_tests.m
 run_svsim_tests.m
+single_vehicle_scenario.m
+test_single_vehicle.m
 
 Outdated files preserved to show process:
 build_deadlock.m
-single_vehicle_scenario.m
-test_single_vehicle.m
 
 Results:
 svsim_results.csv - Single-vehicle results
