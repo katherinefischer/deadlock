@@ -3,14 +3,25 @@ Simulink Single and Multi-Vehicle Simulation README
 
 Simulink files:
 Deadlock.slx - First draft controller
+Deadlock_ACC.slx
+Deadlockv2.slx
 MVSimulink.slx - Multi-Vehicle Simulink Diagram for Testing
+MVSimulink.slxc - Compiled version of above
 SVSimulink.slx - Single-Vehicle Simulink Diagram for Testing
+SVSimulink.slxc - Compiled version of above
 Simulink.slx - Updated model based on class controller
 
-Test files:
+Testing files:
+build_deadlock.m
+run_mvsim_tests.m
 run_svsim_tests.m
 single_vehicle_scenario.m
 test_single_vehicle.m
+
+Results:
+svsim_results.csv - Single-vehicle results
+mvsim_results.csv - Multi-vehicle results
+
 
 How to Run:
 Open MATLAB and set the working directory to this folder.
