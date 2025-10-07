@@ -6,11 +6,6 @@ MVSimulink.slx - Multi-Vehicle Simulink Diagram for Testing
 MVSimulink.slxc - Compiled version of above
 SVSimulink.slx - Single-Vehicle Simulink Diagram for Testing
 SVSimulink.slxc - Compiled version of above
-
-Outdated models preserved to show process:
-Deadlock.slx 
-Deadlock_ACC.slx
-Deadlockv2.slx
 Simulink.slx 
 
 Primary testing files:
@@ -19,8 +14,7 @@ run_svsim_tests.m
 single_vehicle_scenario.m
 test_single_vehicle.m
 
-Outdated files preserved to show process:
-build_deadlock.m
+
 
 Results:
 svsim_results.csv - Single-vehicle results
