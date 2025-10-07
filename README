@@ -28,5 +28,14 @@ mvsim_results.csv - Multi-vehicle results
 
 To run:
 Open MATLAB and set the working directory to this folder.
-Run 'run_svsim_tests' to show 5 SV tests
-Run 'run_mvsim_tests' to show 5 MV tests
+Run 'run_svsim_tests' to show 10 SV tests
+Run 'run_mvsim_tests' to show 10 MV tests
+
+Single Vehicle Sim tests will also show plots for 5 of the scenarios and Multi-Vehicle will show all plots in a separate window.
+
+AI Use Case Statement:
+
+AI was used for much of the creation of the testing environment and the outputs from testing as the team was largely unfamiliar with using Matlab
+to create a testing environment like this. Majority of the controller function was created manually but when errors arose and unexpected behavior occurred, 
+AI was used to help debug and correct issues. 
+
