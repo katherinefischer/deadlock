@@ -14,8 +14,6 @@ run_svsim_tests.m
 single_vehicle_scenario.m
 test_single_vehicle.m
 
-
-
 Results:
 svsim_results.csv - Single-vehicle results
 mvsim_results.csv - Multi-vehicle results
